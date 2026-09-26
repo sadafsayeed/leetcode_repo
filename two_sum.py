@@ -1,7 +1,7 @@
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:    
-        # Time complexity: O(n)
-        # Space complexity: O(n)
+        # Time complexity:O(n)
+        # Space complexity:O(n)
         h_m = dict()
         i=0
         for num in nums:
